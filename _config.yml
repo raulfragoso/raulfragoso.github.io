@@ -1,0 +1,8 @@
+title: Raul Fragoso
+description: Just a place for coding and blogging about my personal projects
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
