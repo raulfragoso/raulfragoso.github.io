@@ -2,10 +2,15 @@ title: Raul Fragoso
 description: Just a place for coding and blogging about my personal projects
 google_analytics: 
 show_downloads: true
-remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+remote_theme: "mmistakes/minimal-mistakes@4.13.0"
 
 gems:
   - jekyll-mentions
 
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
